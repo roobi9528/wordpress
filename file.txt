@@ -1,5 +1,0 @@
-<html>
-<head>friends
-</head>
-<p>hello everybody</p>
-</html>
